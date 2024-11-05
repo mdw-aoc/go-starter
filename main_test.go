@@ -7,8 +7,8 @@ import (
 
 	"github.com/mdw-aoc/inputs/v2/inputs"
 	_ "github.com/mdw-go/funcy"
-	_ "github.com/mdw-go/set/v2/set"
 	_ "github.com/mdw-go/must/must"
+	_ "github.com/mdw-go/set"
 	"github.com/mdw-go/testing/should"
 )
 
