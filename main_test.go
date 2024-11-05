@@ -5,7 +5,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/mdw-aoc/inputs/v2/inputs"
+	"github.com/mdw-aoc/inputs"
 	_ "github.com/mdw-go/funcy"
 	_ "github.com/mdw-go/must/must"
 	_ "github.com/mdw-go/set"

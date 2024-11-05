@@ -1,5 +1,5 @@
-github.com/mdw-aoc/inputs/v2 v2.1.0 h1:eSbtILcCmAE4jzkoxB31M8QjKlnBXtdvHxZB+cTvlMw=
-github.com/mdw-aoc/inputs/v2 v2.1.0/go.mod h1:gLZV4qu4gvL58/Y7XklZplS9kkbangHRS5vgwTNVoPA=
+github.com/mdw-aoc/inputs v1.10.0 h1:JREyDKYsSVNkK8ZnbLgsWtuNoMFiwCiqkKpxeHqeVnw=
+github.com/mdw-aoc/inputs v1.10.0/go.mod h1:2s6zbRNn4kH1plboh7Z0Iu3kczz2qOZfdArzlWSpTuk=
 github.com/mdw-go/funcy v1.13.0 h1:HHlf+JO/1GvbH6DLtt+QPanf9jHv4nlX9aRE0fteqkE=
 github.com/mdw-go/funcy v1.13.0/go.mod h1:pEMFKhuAq1u6bbXZtw3xskHru4YfabK/Rv9U0UgwAos=
 github.com/mdw-go/must v1.4.0 h1:rxXhHkmDAsM9iq86V8+jFUNtPHW+CbL5glMrTa8Os/M=
