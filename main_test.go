@@ -7,7 +7,7 @@ import (
 
 	"github.com/mdw-aoc/inputs"
 	_ "github.com/mdw-go/funcy"
-	_ "github.com/mdw-go/must/must"
+	_ "github.com/mdw-go/must"
 	_ "github.com/mdw-go/set"
 	"github.com/mdw-go/testing/should"
 )
@@ -31,14 +31,13 @@ type Suite struct {
 
 func (this *Suite) Setup() {
 }
-
-func (this *Suite) TestPart1A() {
+func (this *Suite) TestPart1Samples() {
 	this.So(this.Part1(sampleLines), should.Equal, TODO)
 }
 func (this *Suite) TestPart1Full() {
 	this.So(this.Part1(inputLines), should.Equal, TODO)
 }
-func (this *Suite) TestPart2A() {
+func (this *Suite) TestPart2Samples() {
 	this.So(this.Part2(sampleLines), should.Equal, TODO)
 }
 func (this *Suite) TestPart2Full() {
@@ -47,7 +46,6 @@ func (this *Suite) TestPart2Full() {
 func (this *Suite) Part1(lines []string) any {
 	return TODO
 }
-
 func (this *Suite) Part2(lines []string) any {
 	return TODO
 }
